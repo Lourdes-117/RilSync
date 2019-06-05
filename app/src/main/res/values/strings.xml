@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RilSync</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_activity_atmmaps">ATMMaps</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_atm__near_me">ATM Near Me</string>
+</resources>
